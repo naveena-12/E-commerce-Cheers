@@ -3,7 +3,7 @@ import { createRequire } from "module";
  const products = [
     { 
         id:1,
-        image:"https://cloud.workhuman.com/store/#!cognizant/products/326595343",
+        image:"https://m.media-amazon.com/images/I/61fTfbdaszL._AC_UY327_FMwebp_QL65_.jpg",
         brand:"BOAT",
         quantity:1,
         category:"electronics",
@@ -14,7 +14,7 @@ import { createRequire } from "module";
 
     { 
         id:2,
-        image:"https://cloud.workhuman.com/store/#!cognizant/products/223452172",
+        image:"https://m.media-amazon.com/images/I/81srIkdAHcL._AC_UY327_FMwebp_QL65_.jpg",
         brand:"ONE PLUS",
         name:"OnePlus 108 cm (43 inches) Y Series Full HD Smart Android LED TV 43Y1S (Black)",
         points:8760 ,
@@ -25,7 +25,7 @@ import { createRequire } from "module";
 
    { 
     id:3,
-    image:"https://cloud.workhuman.com/store/#!cognizant/products/246649653",
+    image:"https://m.media-amazon.com/images/I/81VttNsrDwL._AC_UY327_FMwebp_QL65_.jpg",
     brandg:"Amazon",
     name:"AMAZON ALL NEW ECHO DOT 4TH GEN SMART SPEAKER WITH ALEXA",
     points:1250,
@@ -38,7 +38,7 @@ import { createRequire } from "module";
 
 { 
     id:4,
-    image:"https://cloud.workhuman.com/store/#!cognizant/products/376692064",
+    image:"https://m.media-amazon.com/images/I/61JNpFtvWvL._AC_UY327_FMwebp_QL65_.jpg",
     brand:"Motorola",
     name:"Motorola Escape 210 Bluetooth Wireless Over Ear Headphones with Mic (Color As Per Availability)",
     points:460 ,
@@ -49,7 +49,7 @@ import { createRequire } from "module";
 
 { 
     id:5,
-    image:"https://cloud.workhuman.com/store/#!cognizant/products/378733830",
+    image:"https://m.media-amazon.com/images/I/61UC065kaIL._AC_UY327_FMwebp_QL65_.jpg",
     brand:"Acer",
     name:"Acer 21.5 Inch Full HD IPS Ultra Slim (6.6mm Thick) Monitor I Frameless Design I AMD Free Sync I Eye Care Features I Stereo Speakers (HA220Q)",
     points:4300,
@@ -60,7 +60,7 @@ import { createRequire } from "module";
 
 { 
     id:6,
-    image:"https://cloud.workhuman.com/store/#!cognizant/products/348627764",
+    image:"https://m.media-amazon.com/images/I/61PnHlc0HCL._AC_UY327_FMwebp_QL65_.jpg",
     brand:"Apple",
     name:"APPLE IPAD 10.2INCH 9TH GENERATION 256GB WIFI",
     points:18800 ,
@@ -72,7 +72,7 @@ import { createRequire } from "module";
 
 { 
     id:"7",
-  image:"https://cloud.workhuman.com/store/#!cognizant/products/371006422",
+  image:"https://m.media-amazon.com/images/I/61Q0EXcljgL._AC_UY327_FMwebp_QL65_.jpg",
     brand:"Amkette",
    name:"Amkette 579GR EvoFox Elite Ops Controller",
     points:500,
@@ -83,7 +83,7 @@ import { createRequire } from "module";
 
 { 
     id:8,
-  image:"https://cloud.workhuman.com/store/#!cognizant/products/270221003",
+  image:"https://m.media-amazon.com/images/I/41xAn0iwc6L._AC_UY327_FMwebp_QL65_.jpg",
     brand:"LOGITECH",
    name:"LOGITECH WIRELESS MOUSE M185",
     points:290,
@@ -95,7 +95,7 @@ import { createRequire } from "module";
 
 {
     id:9,
-    image:"https://cloud.workhuman.com/store/#!cognizant/products/293721490",
+    image:"https://m.media-amazon.com/images/I/612KJu38CzL._AC_UY327_FMwebp_QL65_.jpg",
       brand:"Redmi",
      name:"Redmi 9i (Nature Green, 64GB) (4GB RAM)",
       points:3010,
@@ -106,7 +106,7 @@ import { createRequire } from "module";
 
 {
     id:10,
-    image:"https://cloud.workhuman.com/store/#!cognizant/products/219172904",
+    image:"https://m.media-amazon.com/images/I/51+dU+eLheL._AC_UL480_FMwebp_QL65_.jpg",
       brand:"Decathlon",
      name:"Decathlon Kipsta Football Ball Fifa Pro Size 5 F900 - White",
       points:710,
@@ -117,7 +117,7 @@ import { createRequire } from "module";
 
 {
     id:11,
-    image:"https://cloud.workhuman.com/store/#!cognizant/products/225225633",
+    image:"https://m.media-amazon.com/images/I/814YelpkIUL._AC_UL480_FMwebp_QL65_.jpg",
       brand:"Toyshine",
      name:"Toyshine Mid-Sized Foosball, Mini Football, Table Soccer Game (50 Cms) - Lets Have Fun!",
       points:110,
@@ -128,7 +128,7 @@ import { createRequire } from "module";
 
 {
     id:12,
-    image:"https://cloud.workhuman.com/store/#!cognizant/products/224845596",
+    image:"https://m.media-amazon.com/images/I/71tzdcllaSL._AC_UY327_FMwebp_QL65_.jpg",
       brand:"GOR",
      name:"GOR Power View 20 X 50 Ultra High Power Binocular",
       points:1150,
@@ -139,7 +139,7 @@ import { createRequire } from "module";
 
 {
     id:13,
-    image:"https://cloud.workhuman.com/store/#!cognizant/products/178575587",
+    image:"https://m.media-amazon.com/images/I/71nWNuKsgSL._AC_UL480_FMwebp_QL65_.jpg",
       brand:"Omron",
      name:"Omron Mc-246 Digital Thermometer",
       points:100,
@@ -150,7 +150,7 @@ import { createRequire } from "module";
 
 {
     id:14,
-    image:"https://cloud.workhuman.com/store/#!cognizant/products/378735700",
+    image:"https://m.media-amazon.com/images/I/41C25FOtn+L._AC_UL480_FMwebp_QL65_.jpg",
       brand:"ARKRAY",
      name:"ARKRAY GLUCOCARD G+ BLOOD GLUCOSE METER KIT WITH 10 STRIPS",
       points:260,
@@ -161,7 +161,7 @@ import { createRequire } from "module";
 
 {
     id:15,
-    image:"https://cloud.workhuman.com/store/#!cognizant/products/382624798",
+    image:"https://m.media-amazon.com/images/I/614s75abpYL._AC_UL480_FMwebp_QL65_.jpg",
       brand:"ARKRAY",
      name:"Agaro Rejoice Foot, Calf and Leg Massager with Heat and Vibration, 80W, 4 Motors, Rolling & Kneading Functions for Pain Relief & Improving Blood Circulation, Corded Electric, Grey",
       points:8210,
@@ -172,7 +172,7 @@ import { createRequire } from "module";
 
 {
     id:16,
-    image:"https://cloud.workhuman.com/store/#!cognizant/products/378735463",
+    image:"https://m.media-amazon.com/images/I/71pSEIccemL._AC_UL480_FMwebp_QL65_.jpg",
       brand:"ARKRAY",
      name:"Abasr Plastic Hanging Flower Pot and Flower Pot with Chain Plant Container Set, 6-inch, 6 Piece, Multicolour",
       points:280,
@@ -183,7 +183,7 @@ import { createRequire } from "module";
 
 {
     id:17,
-    image:"https://cloud.workhuman.com/store/#!cognizant/products/365787613",
+    image:"https://m.media-amazon.com/images/I/418N8Jn26xL._AC_UL480_FMwebp_QL65_.jpg",
       brand:"Bhajanlal",
      name:"Bhajanlal Greenery Rareproducts Bamboo Hanging Planter With Disposable Gloves, 2 Piece",
       points:320,
@@ -194,7 +194,7 @@ import { createRequire } from "module";
 
 {
     id:18,
-    image:"https://cloud.workhuman.com/store/#!cognizant/products/364955364",
+    image:"https://m.media-amazon.com/images/I/71U4CquFDcL._AC_UY327_FMwebp_QL65_.jpg",
       brand:"DEWALT",
      name:"DEWALT 18V XR LI-ION CORDLESS LAWNMOVER 55L (BARE)",
       points:19340,
@@ -206,7 +206,7 @@ import { createRequire } from "module";
 {
     
     id:19,
-    image:"https://cloud.workhuman.com/store/#!cognizant/products/257427142",
+    image:"https://m.media-amazon.com/images/I/513wVi40n7L._AC_UL480_FMwebp_QL65_.jpg",
       brand:"Skybags",
      name:"Skybags Trooper 65 Cms Polycarbonate Blue Hardsided Check-in Luggage",
       points:2380,
@@ -217,7 +217,7 @@ import { createRequire } from "module";
 
 {
     id:20,
-    image:"https://cloud.workhuman.com/store/#!cognizant/products/190400484",
+    image:"https://m.media-amazon.com/images/I/81g3pyGvYkL._AC_UL480_FMwebp_QL65_.jpg",
       brand:"Nasher Miles",
      name:"Nasher Miles 100% Pure Memory Foam Travel Neck Pillow, 360 Degree Stable Neck Support with Snap-on Button (Teal and Grey)",
       points:420,
@@ -228,7 +228,7 @@ import { createRequire } from "module";
 
 {
     id:21,
-    image:"https://cloud.workhuman.com/store/#!cognizant/products/210995742",
+    image:"https://m.media-amazon.com/images/I/A1yeOmY5NiL._AC_UL480_FMwebp_QL65_.jpg",
       brand:"WILDCRAFT",
      name:"WILDCRAFT HITCHHIKER TRAVEL DUFFEL BAG",
       points:420,
@@ -239,7 +239,7 @@ import { createRequire } from "module";
 
 {
     id:22,
-    image:"https://cloud.workhuman.com/store/#!cognizant/products/378737143",
+    image:"https://m.media-amazon.com/images/I/51fFCMyey3L._AC_UL480_FMwebp_QL65_.jpg",
       brand:"Bosch",
      name:"Bosch GBL 82-270 Professional Blower with Dust Extraction - Heavy Duty - (820 W, 2.25KG) (Blue) (GBL 80-270)",
       points:1720,
@@ -250,7 +250,7 @@ import { createRequire } from "module";
 
 {
     id:23,
-    image:"https://cloud.workhuman.com/store/#!cognizant/products/378735518",
+    image:"https://m.media-amazon.com/images/I/811SkUDU99L._AC_UL480_FMwebp_QL65_.jpg",
       brand:"COIR GARDEN",
      name:"COIR GARDEN - Hanging Bamboo Planters with partition and Adjustable Rope Bamboo Hanging Planters with Adjustable Rope- Pack of 1",
       points:280,
@@ -261,7 +261,7 @@ import { createRequire } from "module";
 
 {
     id:24,
-    image:"https://cloud.workhuman.com/store/#!cognizant/products/378735477",
+    image:"https://m.media-amazon.com/images/I/51FxqpSlbqL._AC_UL480_FMwebp_QL65_.jpg",
       brand:"COIR GARDEN",
      name:"COIR GARDEN Coir Seed Germination Kit (4x4x1 cm, Pack of 20)",
       points:110,
@@ -273,7 +273,7 @@ import { createRequire } from "module";
 {
     
     id:25,
-    image:"https://cloud.workhuman.com/store/#!cognizant/products/225225016",
+    image:"https://m.media-amazon.com/images/I/41oF3FsUHRL._AC_UL480_FMwebp_QL65_.jpg",
       brand:"Avantor",
      name:"Avantor Glucosphera Automated Blood Glucose Monitor with 10 Strip and 50 Strips",
       points:630,
@@ -285,7 +285,7 @@ import { createRequire } from "module";
 {
 
     id:26,
-    image:"https://cloud.workhuman.com/store/#!cognizant/products/270215981",
+    image:"https://m.media-amazon.com/images/I/81wsHkn95gL._AC_UL480_FMwebp_QL65_.jpg",
       brand:"ARCADIO",
      name:"ARCADIO ARMOR ARCMSKW01 ZARA WOMEN FACE MASK SET OF 3",
       points:130,
@@ -297,7 +297,7 @@ description:"ARCADIO ARMOR ARCMSKW01 ZARA WOMEN FACE MASK SET OF 3\nARCADIO ARMO
 {
     
     id:27,
-    image:"https://cloud.workhuman.com/store/#!cognizant/products/301981957",
+    image:"https://m.media-amazon.com/images/I/71m3d5uB7VL._AC_UL480_FMwebp_QL65_.jpg",
       brand:"Medicate",
      name:"Medicate Regular Blood Pressure Apparatus-Assorted Color",
       points:440,
@@ -308,7 +308,7 @@ description:"ARCADIO ARMOR ARCMSKW01 ZARA WOMEN FACE MASK SET OF 3\nARCADIO ARMO
 
 {
     id:28,
-    image:"https://cloud.workhuman.com/store/#!cognizant/products/370322554",
+    image:"https://m.media-amazon.com/images/I/61xD1ANDMnL._AC_UY327_FMwebp_QL65_.jpg",
       brand:"BLACK + DECKER",
      name:"BLACK + DECKER BEMW451BH-B1 35L GRASSBOX LAWN MOWER",
       points:5600,
@@ -319,7 +319,7 @@ description:"ARCADIO ARMOR ARCMSKW01 ZARA WOMEN FACE MASK SET OF 3\nARCADIO ARMO
 
 {
     id:29,
-    image:"https://cloud.workhuman.com/store/#!cognizant/products/378735529",
+    image:"https://m.media-amazon.com/images/I/61HF41Dm4GL._AC_UL480_FMwebp_QL65_.jpg",
       brand:"Kraft Seeds",
      name:"Kraft Seeds Metal Railing Planters, Multicolour, Pack of 2",
       points:170,
@@ -330,7 +330,7 @@ description:"ARCADIO ARMOR ARCMSKW01 ZARA WOMEN FACE MASK SET OF 3\nARCADIO ARMO
 
 {
     id:30,
-    image:"https://cloud.workhuman.com/store/#!cognizant/products/378735497",
+    image:"https://m.media-amazon.com/images/I/51D1yG0F1XL._AC_UL480_FMwebp_QL65_.jpg",
       brand:"COIR GARDEN",
      name:"COIR GARDEN Coir Hanging Baskets - 8 INCH - Pack of 3 - Balcony Garden Decoration for Indoor and Outdoor",
       points:280,
@@ -341,7 +341,7 @@ description:"ARCADIO ARMOR ARCMSKW01 ZARA WOMEN FACE MASK SET OF 3\nARCADIO ARMO
 
 {
     id:31,
-    image:"https://cloud.workhuman.com/store/#!cognizant/products/234309685",
+    image:"https://m.media-amazon.com/images/I/81nVEMah66L._AC_UL480_FMwebp_QL65_.jpg",
       brand:"Generic",
      name:"Generic Hotshot Tennis Racket Set with Soft Plastic Ball for Kids",
       points:140,
@@ -352,7 +352,7 @@ description:"ARCADIO ARMOR ARCMSKW01 ZARA WOMEN FACE MASK SET OF 3\nARCADIO ARMO
 
 {
     id:32,
-    image:"https://cloud.workhuman.com/store/#!cognizant/products/226186908",
+    image:"https://m.media-amazon.com/images/I/71fkv7ry8AL._AC_UL480_FMwebp_QL65_.jpg",
       brand:"Casinoite",
      name:"Casinoite Billium Clay 500 Poker Chips Set",
       points:1650,
@@ -363,7 +363,7 @@ description:"ARCADIO ARMOR ARCMSKW01 ZARA WOMEN FACE MASK SET OF 3\nARCADIO ARMO
 
 {
     id:33,
-    image:"https://cloud.workhuman.com/store/#!cognizant/products/225225635",
+    image:"https://m.media-amazon.com/images/I/61tkIVxRCtL._AC_UL480_FMwebp_QL65_.jpg",
       brand:"Magicwand",
      name:"Magicwand Mid Size Portable Foosball Soccer Game Table Set for Kids (Foosball-XXLarge-Blue)",
       points:4400,
